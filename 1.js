@@ -19,7 +19,7 @@ function checkForm(event){
     }
     else{
         alert("Welcome " + username + "!!!");
-        window.location = '1.html';
+        window.location = 'index.html';
     }
 
 }
