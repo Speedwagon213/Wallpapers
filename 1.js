@@ -19,7 +19,7 @@ function checkForm(event){
     }
     else{
         alert("Welcome " + username + "!!!");
-        window.location = 'index.html';
+        window.location = 'https://speedwagon213.github.io/Wallpapers/';
     }
 
 }
