@@ -45,14 +45,6 @@ input[type="text"].search{
 		width: 90%;
 		margin-left: 5% ;
 	}
-	header{
-		
-		padding: 5% 0% 3% 1%;
-	}
-	.links{
-		margin-left: 3%;
-		margin-top: 1.5%;
-	}
 }
 .contacts a{
 	float: right;
