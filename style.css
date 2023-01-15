@@ -279,10 +279,41 @@ footer a:hover{
 	padding: 0% 0% 3% 0%;
 	
 }
+@media(max-width : 1520px){
+	.window{
+		margin-bottom: 12%;
+	}
+}
+@media(max-width : 1350px){
+	.window{
+		margin-bottom: 15%;
+	}
+}
+@media(max-width : 1250px){
+	.window{
+		margin-top: 10%;
+		margin-bottom: 17%;
+	}
+}
+@media(max-width : 1100px){
+	.window{
+		margin-bottom: 25%;
+	}
+}
+@media(max-width : 1000px){
+	.window{
+		margin-bottom: 30%;
+	}
+}
+@media(max-width : 880px){
+	.window{
+		margin-bottom: 35%;
+	}
+}
 
 @media(max-width : 600px){
 	.window{
-		margin-top: 10%;
+		margin-top: 30%;
 		margin-bottom: 90%;
 	}
 }
