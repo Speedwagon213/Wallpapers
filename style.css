@@ -299,8 +299,8 @@ footer a:hover{
 }
 @media(max-width : 600px){
 	.window{
-		width: 80%;
-		margin-left: 10%;
+		width: 90%;
+		margin-left: 5%;
 	}
 }
 .window_title{
