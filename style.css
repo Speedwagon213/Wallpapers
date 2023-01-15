@@ -279,6 +279,12 @@ footer a:hover{
 	padding: 0% 0% 3% 0%;
 	
 }
+@media(max-width : 600px){
+	.window{
+		margin-top: 20%;
+		margin-bottom: 80%;
+	}
+}
 @media(max-width : 1200px){
 	.window{
 		width: 40%;
