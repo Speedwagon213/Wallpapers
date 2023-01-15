@@ -45,6 +45,14 @@ input[type="text"].search{
 		width: 90%;
 		margin-left: 5% ;
 	}
+	header{
+		
+		padding: 2% 0% 3% 1%;
+	}
+	.links{
+		margin-left: 3%;
+		margin-top: 1.5%;
+	}
 }
 .contacts a{
 	float: right;
@@ -77,8 +85,8 @@ input[type="text"].search{
 	input[type="text"].search{
 		width: 70%;
 		margin-left: 15%;
-		margin-top: 2%;
-		margin-bottom: 2%;
+		margin-top: 3%;
+		margin-bottom: 3%;
 	}
 	header{
 		padding-bottom: 2%;
@@ -313,8 +321,8 @@ footer a:hover{
 
 @media(max-width : 600px){
 	.window{
-		margin-top: 30%;
-		margin-bottom: 80%;
+		margin-top: 20%;
+		margin-bottom: 90%;
 	}
 }
 @media(max-width : 1200px){
